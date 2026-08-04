@@ -1,0 +1,10 @@
+- [x] Remove "Browse Modules" button from the public landing page
+- [x] Restrict landing page to promote only the public Component Marketplace and Sign In
+- [x] Update landing page visual workflow, statistics, and role descriptions to focus on components instead of modules
+- [x] Implement visual interactive Component Preview box in ComponentDetailPage.jsx supporting UI and Backend types
+- [x] Implement lightweight JavaScript & JSX syntax highlighting helper in ComponentDetailPage.jsx
+- [x] Ensure Maintainer role check is completely removed from ModuleDetailPage.jsx and documentation pages
+- [x] Verify private Module Registry requires login and is accessible only to authenticated Developers and Admins
+- [x] Verify developer dashboard publishes both Modules and Components into "submitted" status for review
+- [x] Verify Admin dashboard displays both Module Reviews and Component Reviews queues
+- [x] Run npm run build to compile production bundle successfully

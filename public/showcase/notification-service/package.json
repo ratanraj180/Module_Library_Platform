@@ -1,0 +1,13 @@
+{
+  "name": "@org/notification-service",
+  "version": "1.0.0",
+  "description": "Reusable notification module supporting toast notifications, email notification templates, notification queue simulation, and alert management.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "dependencies": {},
+  "peerDependencies": {
+    "react": "^18.0.0"
+  }
+}

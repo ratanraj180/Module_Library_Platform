@@ -1,0 +1,15 @@
+{
+  "name": "@org/live-chat-module",
+  "version": "1.0.0",
+  "description": "Realtime chat module with chat rooms, message history, typing indicator, online users list, and websocket integration structure.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "dependencies": {
+    "socket.io-client": "^4.7.0"
+  },
+  "peerDependencies": {
+    "socket.io": "^4.7.0"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "@org/payment-gateway-module",
+  "version": "1.0.0",
+  "description": "Reusable payment processing module with checkout flow, order creation, payment status tracking, transaction history, and API integration structure.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "dependencies": {
+    "stripe": "^14.0.0"
+  },
+  "peerDependencies": {
+    "express": "^4.18.0"
+  }
+}

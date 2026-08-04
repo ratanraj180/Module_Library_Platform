@@ -1,0 +1,20 @@
+{
+  "name": "@org/auth-module",
+  "version": "1.0.0",
+  "description": "Enterprise authentication module with JWT authentication, role-based access control, password hashing using bcrypt, login, signup, token verification, and protected routes.",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0",
+    "build": "echo \"No build script required for package entry\""
+  },
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.0.0"
+  },
+  "peerDependencies": {
+    "express": "^4.18.0",
+    "react": "^18.0.0",
+    "react-router-dom": "^6.0.0"
+  }
+}
